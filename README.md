@@ -2,7 +2,7 @@
 A Power BI project analyzing a 26.54% churn rate to identify $139K in monthly revenue loss. Features a Risk-Based Framework to quantify 'Revenue at Risk' and predict customer behaviour.
 # Case Study: Strategic Revenue Retention & Churn Intelligence
 
-![Strategic Revenue Retention and Churn Analysis Dashboard](Churn_Analysis.png)
+![Strategic Revenue Retention and Churn Analysis Dashboard](Churn_Analysis.png) 
 
 ## Project Overview
 This project focuses on identifying and mitigating revenue leakage within a telecommunications company. By analyzing customer behavior, contract structures, and service adoption, I developed an interactive Power BI dashboard that transforms raw churn data into an actionable retention strategy.
