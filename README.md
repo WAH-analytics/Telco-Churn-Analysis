@@ -2,7 +2,7 @@
 A Power BI project analyzing a 26.54% churn rate to identify $139K in monthly revenue loss. Features a Risk-Based Framework to quantify 'Revenue at Risk' and predict customer behaviour.
 # Case Study: Strategic Revenue Retention & Churn Intelligence
 
-![Strategic Revenue Retention and Churn Analysis Dashboard](Churn _Analysis.png) 
+![Strategic Revenue Retention and Churn Analysis Dashboard](Churn_Analysis.png) 
 
 ## Project Overview
 This project focuses on identifying and mitigating revenue leakage within a telecommunications company. By analyzing customer behavior, contract structures, and service adoption, I developed an interactive Power BI dashboard that transforms raw churn data into an actionable retention strategy.
@@ -33,7 +33,7 @@ The analysis was performed on a Telco Customer Churn dataset comprising 7,043 re
 *   **Segmentation:** Created `Price_Segment` and `TenureGroup` bins with Power Query to identify specific Pain Thresholds.
 
 ## Key Insights from Dashboard
-![Strategic Revenue Retention and Churn Analysis Dashboard](Churn _Analysis.png)
+![Strategic Revenue Retention and Churn Analysis Dashboard](Churn_Analysis.png)
 ![Churn Drivers and Behavioural Insights Dashboard](Churn_Insights.png).
 
 *   **The Danger Zone:** Churn rate is highest in the 0–6 month window (exceeding 50%). This indicates a critical need for improved onboarding.
