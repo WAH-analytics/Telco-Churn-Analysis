@@ -62,5 +62,7 @@ The company is losing $139.13K monthly, primarily driven by high-paying "Newbies
 ​* **Excel:** Initial data exploration and validation.
 
 ## About Me
-I am Waliyullahi Akorede Husain, a Data Analyst and Microbiologist. 
 
+I'm a Data Analyst and a Microbiologist 
+
+Connect with me: https://www.linkedin.com/in/waliyullahi-akorede-husain-135131309/ | https://x.com/drwah001
