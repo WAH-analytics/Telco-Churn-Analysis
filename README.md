@@ -34,7 +34,7 @@ The analysis was performed on a Telco Customer Churn dataset comprising 7,043 re
 
 ## Key Insights from Dashboard
 ![Strategic Revenue Retention and Churn Analysis Dashboard](Churn_Analysis.png)
-![Churn Drivers and Behavioural Insights Dashboard](Churn_Insights.png)
+![Churn Drivers and Behavioural Insights Dashboard](Churn_Insights.png).
 
 *   **The Danger Zone:** Churn rate is highest in the 0–6 month window (exceeding 50%). This indicates a critical need for improved onboarding.
 *   **Revenue Paradox:** The organization makes most money from customers in their first 6 months (0–6 months) and the very long-term customers (67–72 months). But even though the new customers bring in a lot of cash, they are also the group most likely to quit.
